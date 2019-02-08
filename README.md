@@ -1,2 +1,2 @@
 # Hangman-OpenCV
-Hangman game using OpenCV and Python
+Hangman game for OpenCV
